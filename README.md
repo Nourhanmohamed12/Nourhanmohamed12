@@ -1,24 +1,23 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1E40AF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F2937&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer" />
+  <br><br>
+  <a href="https://github.com/Nourhanmohamed12">
+    <img src="https://img.shields.io/github/followers/Nourhanmohamed12?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/Nourhanmohamed12?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/Nourhanmohamed12/Intelligent-Tourism-App?label=Repo%20Size" />
+  </a>
+  <img src="https://img.shields.io/badge/Projects-4%2B-blue?style=flat&logo=git&logoColor=white" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanmohamed12&theme=calm&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanmohamed12&theme=light&hide_border=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanmohamed12&theme=calm&hide_border=true" alt="streak" />
-</picture>
 
 ---
 
-## <div align="center"><b style="color:#1E40AF">👨‍💻 About Me</b></div>
+## 👩‍💻 About Me
+
+**Data Scientist & Machine Learning Engineer** with a passion for building intelligent systems that solve real-world problems.
 
 ```yaml
-🎓 Education:    B.Sc. Data Science (GPA: 3.61/4.0)
-💼 Experience:  100+ students taught • 50k+ records processed
-🛠️  Skills:      Python • SQL • TensorFlow • Flutter • Node.js
-🌟 Highlight:   Intelligent Tourism App (92% CV accuracy)
-🎯 Currently:   Building AI recommendation systems
+Education: B.Sc. Data Science (GPA: 3.61/4.0)
+Skills: Python • SQL • TensorFlow • Scikit-learn • Flutter • Node.js • MySQL
+Experience: 100+ students taught • 50k+ records processed
+Notable: Intelligent Tourism App (92% CV accuracy)
