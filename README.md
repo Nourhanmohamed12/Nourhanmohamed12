@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1E40AF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=F1C40F&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer" />
   </picture>
 </div>
 
