@@ -1,67 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nourhan Mohammed</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1E40AF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=F1C40F&size=32&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nourhan+Mohammed;Data+Scientist+%26+ML+Engineer" />
+  </picture>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 B.Sc. in Data Science (GPA: 3.61/4.0)  
-- 💻 Python, SQL, R, Node.js, Java (OOP), TensorFlow, Scikit-learn  
-- 🤖 Built **Intelligent Tourism App**: Flutter + Node.js + MySQL + Firebase + TensorFlow CV (**92% accuracy**)  
-- 👩‍🏫 Instructor teaching 100+ students Python & ML  
-- 📊 Experienced in handling large datasets (50k+ records) and feature engineering using SAS Viya  
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-1F2937?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-1F2937?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-1F2937?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAS_Viya-1F2937?style=for-the-badge&logo=sas&logoColor=white"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanmohamed12&theme=calm&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanmohamed12&theme=light&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanmohamed12&theme=calm&hide_border=true" alt="streak" />
+</picture>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhanmohamed12&show_icons=true&theme=dark" />
-</p>
+## <div align="center"><b style="color:#1E40AF">👨‍💻 About Me</b></div>
 
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhanmohamed12&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🔥 Featured Projects
-- 🧠 **Intelligent Tourism Recommendation System** – Flutter + Node.js + MySQL + Firebase + TensorFlow CV, 92% accuracy, 2k+ recommendations, 4.5★ rating  
-- 🎌 **Anime Recommendation System** – Scikit-learn ML, 10k+ ratings, RMSE 0.85  
-- 🏥 **Hospital Management System** – Python + SQLite GUI, 1,200+ records, 500+ daily transactions, 100% accuracy  
-- 🌐 **Computer Network Simulation** – Cisco Packet Tracer (OSPF/EIGRP/RIP, NAT, firewalls), 99.9% uptime  
-
----
-
-## 🌟 Awards & Certificates
-Google Data Analytics | DeepLearning.AI Supervised ML | SAS Viya ML | DataCamp Data Engineering | Mahara Tech Database | PES CS Camp  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/nour-mohammed-614753278">
-    <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nourhanmohammed1282003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```yaml
+🎓 Education:    B.Sc. Data Science (GPA: 3.61/4.0)
+💼 Experience:  100+ students taught • 50k+ records processed
+🛠️  Skills:      Python • SQL • TensorFlow • Flutter • Node.js
+🌟 Highlight:   Intelligent Tourism App (92% CV accuracy)
+🎯 Currently:   Building AI recommendation systems
