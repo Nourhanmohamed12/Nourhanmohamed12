@@ -32,15 +32,6 @@
 
 ---
 
-
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhanmohamed12&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 - 🧠 **Intelligent Tourism Recommendation System** – Flutter + Node.js + MySQL + Firebase + TensorFlow CV, 92% accuracy, 2k+ recommendations, 4.5★ rating  
 - 🎌 **Anime Recommendation System** – Scikit-learn ML, 10k+ ratings, RMSE 0.85  
