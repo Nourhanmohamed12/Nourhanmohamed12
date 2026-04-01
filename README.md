@@ -32,12 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhanmohamed12&show_icons=true&theme=dark" />
-</p>
 
----
 
 ## 📈 Most Used Languages
 <p align="center">
