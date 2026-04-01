@@ -25,8 +25,7 @@
   <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAS_Viya-1F2937?style=for-the-badge&logo=sas&logoColor=white"/>
-  <img width="212" height="367" alt="image" src="https://github.com/user-attachments/assets/f3ffbfeb-7560-4bbc-9bd1-e29c2659ff66" />
-  <img width="291" height="369" alt="image" src="https://github.com/user-attachments/assets/21950055-b46f-414d-8b79-f3e3c776980c" />
+  
 
 
 </p>
