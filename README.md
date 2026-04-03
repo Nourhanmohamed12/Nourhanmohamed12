@@ -2,11 +2,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer" />
+  
+</p>
+<p align="center">
    <a href="https://nourhanmohamed12.github.io/My-website-/" 
      style="display: inline-flex; align-items: center; gap: 10px; 
             background-color: #1E90FF; color: white; padding: 15px 25px; 
             border-radius: 12px; font-size: 18px; font-weight: bold; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/24/ffffff/domain.png"/>
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
     Website
   </a>
 </p>
