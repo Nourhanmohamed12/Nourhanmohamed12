@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer" />
 </p>
 
----
+<a href="https://nourhanmohamed12.github.io/My-website-/">
+    <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
 ## 🚀 About Me
 - 🎓 B.Sc. in Data Science (GPA: 3.61/4.0)  
@@ -53,7 +55,5 @@ Google Data Analytics | DeepLearning.AI Supervised ML | SAS Viya ML | DataCamp D
   <a href="mailto:nourhanmohammed1282003@gmail.com">
     <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://nourhanmohamed12.github.io/My-website-/">
-    <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  
 </p>
