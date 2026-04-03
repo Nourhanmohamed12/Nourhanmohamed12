@@ -9,7 +9,7 @@
      style="display: inline-flex; align-items: center; gap: 10px; 
             background-color: #1E90FF; color: white; padding: 15px 25px; 
             border-radius: 12px; font-size: 18px; font-weight: bold; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     Website
   </a>
 </p>
