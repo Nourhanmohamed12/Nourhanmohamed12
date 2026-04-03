@@ -4,9 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer" />
 </p>
 
-<a href="https://nourhanmohamed12.github.io/My-website-/">
-    <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<p align="center">
+  <a href="https://nourhanmohamed12.github.io/My-website-/" 
+     style="display: inline-flex; align-items: center; gap: 10px; 
+            background-color: #1E90FF; color: white; padding: 15px 25px; 
+            border-radius: 12px; font-size: 18px; font-weight: bold; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/24/ffffff/domain.png"/>
+    Website
   </a>
+</p>
 
 ## 🚀 About Me
 - 🎓 B.Sc. in Data Science (GPA: 3.61/4.0)  
@@ -27,9 +33,6 @@
   <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAS_Viya-1F2937?style=for-the-badge&logo=sas&logoColor=white"/>
-  
-
-
 </p>
 
 ---
@@ -55,5 +58,4 @@ Google Data Analytics | DeepLearning.AI Supervised ML | SAS Viya ML | DataCamp D
   <a href="mailto:nourhanmohammed1282003@gmail.com">
     <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
 </p>
