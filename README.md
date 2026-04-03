@@ -6,7 +6,7 @@
 </p>
 <p align="center">
    <a href="https://nourhanmohamed12.github.io/My-website-/">
-  <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/My Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
