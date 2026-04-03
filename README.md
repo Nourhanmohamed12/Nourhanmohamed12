@@ -5,10 +5,9 @@
   
 </p>
 <p align="center">
-   <a href="https://nourhanmohamed12.github.io/My-website-/" >
-    <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    My Website
-  </a>
+   <a href="https://nourhanmohamed12.github.io/My-website-/">
+  <img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ## 🚀 About Me
