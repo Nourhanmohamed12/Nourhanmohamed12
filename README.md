@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nourhan Mohammed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F2937&center=true&vCenter=true&lines=Data+Engineer;Data+Analyst+;Python+Developer" />
   
 </p>
 <p align="center">
